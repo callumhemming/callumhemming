@@ -1,6 +1,7 @@
 ## Hi! I'm Callum Hemming
 
-🚀 Looking for work as a full stack developer\n
+🚀 Looking for work as a full stack developer
+<br />
 👩‍💻My Tool Box👩‍💻
 
  - React
