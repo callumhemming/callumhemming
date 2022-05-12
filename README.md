@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! I'm Callum Hemming
 
-<!--
-**callumhemming/callumhemming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Looking for work as a full stack developer
+👩‍💻My Tool Box👩‍💻
 
-Here are some ideas to get you started:
+ - React
+ - Next JS
+ - Javascript
+ - Typescript
+ - PostgreSQL
+ - Node
+ - Git
+ - CSS
+ - HTML
+ - Express APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have just completed an intense bootcamp with the School of Code and I am looking for full time employment anywhere on the stack; my greatest tool is my ability to learn independently and quickly. 🎉
+
+Please feel free to look around and contact me [here](https://www.callumhemming.tech/contact)
