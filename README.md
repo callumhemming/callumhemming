@@ -1,3 +1,5 @@
+![github banner](https://user-images.githubusercontent.com/82006291/178791267-f53c0e06-30e7-4895-955c-9e97c25b4ecd.gif)
+
 ## Hi! I'm Callum Hemming
 
 🚀 Looking for work as a full stack developer
